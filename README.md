@@ -5,9 +5,9 @@ This is a map application for my university that helps visitors find the best ro
 
 ## Features
 The application offers the following features:
-*A map of the campus with all the buildings, venues, and paths indicated.
-*The ability to provide a user with the best route between two points based on distance, traffic, and wheel chair accessibility.
-*The ability to provide multiple options where more than one path exists.
-*The ability to advise a user who wishes to go to more than one destination on the best path to take.
-*A heuristics option that is based on the Manhattan distance.
-*Constraints or logical rules to enrich the solution.
+* A map of the campus with all the buildings, venues, and paths indicated.
+* The ability to provide a user with the best route between two points based on distance, traffic, and wheel chair accessibility.
+* The ability to provide multiple options where more than one path exists.
+* The ability to advise a user who wishes to go to more than one destination on the best path to take.
+* A heuristics option that is based on the Manhattan distance.
+* Constraints or logical rules to enrich the solution.
